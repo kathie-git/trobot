@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d35d3f5-94a1-4dbc-963f-f714a9ef713e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1eGiRtU1K3dAwz3no8QzfSmxXCP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Includes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d35d3f5-94a1-4dbc-963f-f714a9ef713e" name="Default Changelist" comment="" />
+      <created>1593954325146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593954325146</updated>
+      <workItem from="1593954326394" duration="774000" />
+      <workItem from="1593955993362" duration="195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="131" width="1030" height="848" key="#CLI_Interpreters" timestamp="1593954977290">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="473" y="131" width="1030" height="848" key="#CLI_Interpreters/67.34.1853.1046/1920.648.1920.1080@67.34.1853.1046" timestamp="1593954977290" />
+    <state x="589" y="162" width="798" height="787" key="#index.php" timestamp="1593954955373">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="589" y="162" width="798" height="787" key="#index.php/67.34.1853.1046/1920.648.1920.1080@67.34.1853.1046" timestamp="1593954955373" />
+    <state width="1797" height="262" key="GridCell.Tab.0.bottom" timestamp="1593955100123">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="262" key="GridCell.Tab.0.bottom/67.34.1853.1046/1920.648.1920.1080@67.34.1853.1046" timestamp="1593955100123" />
+    <state width="1797" height="262" key="GridCell.Tab.0.center" timestamp="1593955100123">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="262" key="GridCell.Tab.0.center/67.34.1853.1046/1920.648.1920.1080@67.34.1853.1046" timestamp="1593955100123" />
+    <state width="1797" height="262" key="GridCell.Tab.0.left" timestamp="1593955100123">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="262" key="GridCell.Tab.0.left/67.34.1853.1046/1920.648.1920.1080@67.34.1853.1046" timestamp="1593955100123" />
+    <state width="1797" height="262" key="GridCell.Tab.0.right" timestamp="1593955100123">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="262" key="GridCell.Tab.0.right/67.34.1853.1046/1920.648.1920.1080@67.34.1853.1046" timestamp="1593955100123" />
+    <state x="759" y="467" width="458" height="178" key="NewPhpFileDialog" timestamp="1593954755337">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="759" y="467" width="458" height="178" key="NewPhpFileDialog/67.34.1853.1046/1920.648.1920.1080@67.34.1853.1046" timestamp="1593954755337" />
+    <state x="358" y="103" key="SettingsEditor" timestamp="1593954979468">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="358" y="103" key="SettingsEditor/67.34.1853.1046/1920.648.1920.1080@67.34.1853.1046" timestamp="1593954979468" />
+  </component>
+</project>
